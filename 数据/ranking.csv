@@ -1,0 +1,502 @@
+﻿排名,学校名称,国家
+1,麻省理工学院Massachusetts Institute of Technology (MIT),United Sta
+2,斯坦福大学Stanford University,United Sta
+3,哈佛大学Harvard University,United Sta
+4,加州理工学院California Institute of Technology (Caltech),United Sta
+5,牛津大学University of Oxford,United Kin
+6,苏黎世联邦理工学院ETH Zurich - Swiss Federal Institute of Technology,Switzerlan
+7,剑桥大学University of Cambridge,United Kin
+8,帝国理工学院Imperial College London,United Kin
+9,芝加哥大学University of Chicago,United Sta
+10,伦敦大学学院University College London,United Kin
+11,新加坡国立大学National University of Singapore (NUS),Singapore
+12,普林斯顿大学Princeton University,United Sta
+13,"南洋理工大学Nanyang Technological University, Singapore (NTU)",Singapore
+14,洛桑联邦理工学院EPFL,Switzerlan
+15,清华大学Tsinghua University,China (Mai
+16,宾夕法尼亚大学University of Pennsylvania,United Sta
+17,耶鲁大学Yale University,United Sta
+18,康奈尔大学Cornell University,United Sta
+19,哥伦比亚大学Columbia University,United Sta
+20,爱丁堡大学The University of Edinburgh,United Kin
+21,密歇根大学安娜堡分校University of Michigan-Ann Arbor,United Sta
+22,香港大学The University of Hong Kong,Hong Kong 
+23,北京大学Peking University,China (Mai
+24,东京大学The University of Tokyo,Japan
+25,多伦多大学University of Toronto,Canada
+25,约翰霍普金斯大学Johns Hopkins University,United Sta
+27,曼彻斯特大学The University of Manchester,United Kin
+27,香港科技大学The Hong Kong University of Science and Technology,Hong Kong 
+29,西北大学Northwestern University,United Sta
+30,"加州大学伯克利分校University of California, Berkeley (UCB)",United Sta
+31,伦敦大学国王学院King's College London,United Kin
+31,澳大利亚国立大学The Australian National University,Australia
+31,麦吉尔大学McGill University,Canada
+34,复旦大学Fudan University,China (Mai
+35,纽约大学New York University (NYU),United Sta
+36,"加州大学洛杉矶分校University of California, Los Angeles (UCLA)",United Sta
+37,首尔国立大学Seoul National University,South Kore
+38,京都大学Kyoto University,Japan
+39,韩国高等科技学院KAIST - Korea Advanced Institute of Science & Technology,South Kore
+40,悉尼大学The University of Sydney,Australia
+41,墨尔本大学The University of Melbourne,Australia
+42,杜克大学Duke University,United Sta
+43,香港中文大学The Chinese University of Hong Kong (CUHK),Hong Kong 
+44,新南威尔士大学The University of New South Wales (UNSW Sydney),Australia
+45,英属哥伦比亚大学University of British Columbia,Canada
+46,昆士兰大学The University of Queensland,Australia
+47,上海交通大学Shanghai Jiao Tong University,China (Mai
+48,香港城市大学City University of Hong Kong,Hong Kong 
+49,伦敦政经学院The London School of Economics and Political Science (LSE),United Kin
+50,慕尼黑工业大学Technical University of Munich,Germany
+51,卡耐基梅隆大学Carnegie Mellon University,United Sta
+52,巴黎第九大学niversité PSL,France
+53,浙江大学Zhejiang University,China (Mai
+54,"加州大学圣地亚哥分校University of California, San Diego (UCSD)",United Sta
+55,莫纳什大学Monash University,Australia
+56,东京工业大学Tokyo Institute of Technology (Tokyo Tech),Japan
+57,代尔夫特理工大学Delft University of Technology,Netherland
+58,布里斯托大学University of Bristol,United Kin
+59,马来亚大学Universiti Malaya (UM),Malaysia
+60,布朗大学Brown University,United Sta
+61,阿姆斯特丹大学Ecole Polytechnique,France
+61,巴黎高等理工学院University of Amsterdam,Netherland
+62,华威大学The University of Warwick,United Kin
+63,慕尼黑大学udwig-Maximilians-Universit?t München,Germany
+64,海德堡大学Ruprecht-Karls-Universit?t Heidelberg,Germany
+65,威斯康星大学麦迪逊分校University of Wisconsin-Madison,United Sta
+66,布宜诺斯艾利斯大学Universidad de Buenos Aires (UBA),Argentina
+66,国立台湾大学National Taiwan University (NTU),Taiwan
+69,苏黎世大学University of Zurich,Switzerlan
+69,高丽大学Korea University,South Kore
+71,德州大学奥斯汀分校University of Texas at Austin,United Sta
+72,大阪大学Osaka University,Japan
+72,华盛顿大学University of Washington,United Sta
+74,莫斯科国立大学Lomonosov Moscow State University,Russia
+75,香港理工大学The Hong Kong Polytechnic University,Hong Kong 
+76,哥本哈根大学University of Copenhagen,Denmark
+77,浦项科技大学Pohang University of Science And Technology (POSTECH),South Kore
+77,格拉斯哥大学University of Glasgow,United Kin
+79,东北大学（日本）Tohoku University,Japan
+80,佐治亚理工学院Georgia Institute of Technology,United Sta
+81,奥克兰大学The University of Auckland,New Zealan
+82,伊利诺伊大学香槟分校University of Illinois at Urbana-Champaign,United Sta
+83,索邦大学Sorbonne University,France
+84,鲁汶大学（荷语）KU Leuven,Belgium
+85,延世大学Yonsei University,South Kore
+86,杜伦大学Durham University,United Kin
+87,伯明翰大学University of Birmingham,United Kin
+88,成均馆大学Sungkyunkwan University(SKKU),South Kore
+89,莱斯大学Rice University,United Sta
+90,南安普顿大学University of Southampton,United Kin
+91,利兹大学University of Leeds,United Kin
+92,西澳大学The University of Western Australia,Australia
+93,谢菲尔德大学The University of Sheffield,United Kin
+93,中国科学技术大学University of Science and Technology of China,China (Mai
+95,"北卡罗来纳大学教堂山分校University of North Carolina, Chapel Hill",United Sta
+96,圣安德鲁斯大学University of St Andrews,United Kin
+97,隆德大学Lund University,Sweden
+98,瑞典皇家理工学院KTH Royal Institute of Technology,Sweden
+99,诺丁汉大学University of Nottingham,United Kin
+100,墨西哥国立自治大学iversidad Nacional Autónoma de México (UNAM),Mexico
+101,宾夕法尼亚州立大学（帕克校区）Pennsylvania State University,United Sta
+101,"都柏林三一学院Trinity College Dublin, The University of Dublin",Ireland
+103,丹麦理工大学Technical University of Denmark,Denmark
+104,赫尔辛基大学University of Helsinki,Finland
+105,圣路易斯华盛顿大学Washington University in St. Louis,United Sta
+106,阿德莱德大学The University of Adelaide,Australia
+106,日内瓦大学University of Geneva,Switzerlan
+108,俄亥俄州立大学哥伦布分校The Ohio State University,United Sta
+109,普渡大学西拉法叶校区Purdue University,United Sta
+110,波士顿大学Boston University,United Sta
+110,名古屋大学Nagoya University,Japan
+112,"加州大学戴维斯分校University of California, Davis",United Sta
+113,奥斯陆大学University of Oslo,Norway
+114,伦敦大学玛丽皇后学院University of Bern,Switzerlan
+114,伯尔尼大学Queen Mary University of London,United Kin
+115,圣保罗大学Universidade de S?o Paulo,Brazil
+115,万格宁根大学Wageningen University & Research,Netherland
+117,柏林洪堡大学Humboldt-Universit?t zu Berlin,Germany
+118,蒙特利尔大学iversité de Montréal,Canada
+119,阿尔伯塔大学University of Alberta,Canada
+120,埃因霍温理工大学Eindhoven University of Technology,Netherland
+121,乌得勒支大学Utrecht University,Netherland
+121,智利天主大学ontificia Universidad Católica de Chile (UC),Chile
+121,南加州大学University of Southern California,United Sta
+124,九州大学Kyushu University,Japan
+124,南京大学Nanjing University,China (Mai
+124,乌普萨拉大学Uppsala University,Sweden
+127,阿尔托大学Aalto University,Finland
+128,莱顿大学Leiden University,Netherland
+128,格罗宁根大学University of Groningen,Netherland
+130,柏林自由大学Freie Universitaet Berlin,Germany
+131,"卡尔斯鲁厄理工学院KIT, Karlsruhe Institute of Technology",Germany
+132,马来西亚博特拉大学Universiti Putra Malaysia (UPM),Malaysia
+133,悉尼科技大学University of Technology Sydney,Australia
+135,根特大学Ghent University,Belgium
+135,兰卡斯特大学Lancaster University,United Kin
+137,米兰理工大学Politecnico di Milano,Italy
+138,法国中央理工学院entraleSupélec,France
+139,北海道大学Hokkaido University,Japan
+139,查尔姆斯工业大学Chalmers University of Technology,Sweden
+141,马来西亚国民大学Universiti Kebangsaan Malaysia (UKM),Malaysia
+142,马来西亚理科大学Universiti Sains Malaysia (USM),Malaysia
+143,阿卜杜勒阿齐兹国王大学King Abdulaziz University (KAU),Saudi Arab
+144,麦克马斯特大学McMaster University,Canada
+145,亚琛工业大学RWTH Aachen University,Germany
+146,汉阳大学Hanyang University,South Kore
+147,奥胡斯大学Aarhus University,Denmark
+148,柏林工业大学Technische Universit?t Berlin (TU Berlin),Germany
+149,巴塞尔大学University of Basel,Switzerlan
+150,维也纳大学University of Vienna,Austria
+150,约克大学The University of York,United Kin
+152,纽卡斯尔大学Newcastle University,United Kin
+152,"加州大学圣塔芭芭拉分校University of California, Santa Barbara (UCSB)",United Sta
+152,"马里兰大学帕克分校University of Maryland, College Park",United Sta
+155,蒙特雷理工学院ecnológico de Monterrey,Mexico
+156,匹兹堡大学University of Pittsburgh,United Sta
+157,密歇根州立大学Michigan State University,United Sta
+158,埃默里大学Emory University,United Sta
+159,卡迪夫大学Cardiff University,United Kin
+160,博洛尼亚大学Alma Mater Studiorum - University of Bologna,Italy
+161,里昂高等师范学院ole Normale Supérieure de Lyon,France
+162,凯斯西储大学Case Western Reserve University,United Sta
+162,佛罗里达大学University of Florida,United Sta
+164,埃克塞特大学University of Exeter,United Kin
+165,国立哈萨克大学Al-Farabi Kazakh National University,Kazakhstan
+166,罗切斯特大学University of Rochester,United Sta
+166,滑铁卢大学University of Waterloo,Canada
+168,国立清华大学National Tsing Hua University,Taiwan
+169,德州农工大学Texas A&M University,United Sta
+169,洛桑大学University of Lausanne,Switzerlan
+171,罗马第一大学Sapienza University of Rome,Italy
+172,印度理工学院孟买分校Indian Institute of Technology Bombay (IITB),India
+173,德累斯顿工业大学Technische Universit?t Dresden,Germany
+173,巴斯大学University of Bath,United Kin
+175,弗莱堡大学Albert-Ludwigs-Universitaet Freiburg,Germany
+175,蒂宾根大学berhard Karls Universit?t Tübingen,Germany
+177,耶路撒冷希伯来大学The Hebrew University of Jerusalem,Israel
+177,都柏林大学学院University College Dublin,Ireland
+177,明尼苏达大学双城分校University of Minnesota Twin Cities,United Sta
+180,智利大学Universidad de Chile,Chile
+181,斯德哥尔摩大学Stockholm University,Sweden
+181,利物浦大学The University of Liverpool,United Kin
+183,巴塞罗那大学Universitat de Barcelona,Spain
+184,奥塔戈大学University of Otago,New Zealan
+185,印度科学学院Indian Institute of Science,India
+186,法赫德国王石油与矿产大学King Fahd University of Petroleum & Minerals,Saudi Arab
+187,范德堡大学Vanderbilt University,United Sta
+187,马来西亚理工大学Universiti Teknologi Malaysia,Malaysia
+189,鲁汶大学（法语）niversité catholique de Louvain (UCLouvain),Belgium
+189,早稻田大学Waseda University,Japan
+191,维也纳工业大学Vienna University of Technology,Austria
+191,庆应义塾大学Keio University,Japan
+193,印度理工学院德里分校Indian Institute of Technology Delhi (IITD),India
+194,卑尔根大学University of Bergen,Norway
+195,哥廷根大学University of G?ttingen,Germany
+196,卧龙岗大学University of Wollongong,Australia
+197,伊拉斯姆斯大学Erasmus University Rotterdam,Netherland
+197,"纽卡斯尔大学（澳洲）The University of Newcastle, Australia (UON)",Australia
+197,特文特大学University of Twente,Netherland
+200,马德里自治大学niversidad Autónoma de Madrid,Spain
+200,布鲁塞尔自由大学（荷语）Vrije Universiteit Brussel (VUB),Belgium
+202,哥德堡大学University of Gothenburg,Sweden
+203,西安大略大学Western University,Canada
+203,达特茅斯学院Dartmouth College,United Sta
+205,雷丁大学University of Reading,United Kin
+206,马德里康普斯顿大学Complutense University of Madrid,Spain
+207,阿伯丁大学University of Aberdeen,United Kin
+208,朱拉隆功大学Chulalongkorn University,Thailand
+209,贝尔法斯特女王大学Queen's University Belfast,United Kin
+210,"加州大学尔湾分校University of California, Irvine",United Sta
+211,诺特丹大学University of Notre Dame,United Sta
+211,哈里发科技大学Khalifa University of Science and Technology,United Ara
+213,巴塞罗那自治大学niversitat Autònoma de Barcelona,Spain
+214,麦考瑞大学Macquarie University,Australia
+214,奈梅亨大学Radboud University,Netherland
+216,帕多瓦大学niversità di Padova,Italy
+217,科廷大学Curtin University,Australia
+217,昆士兰科技大学Queensland University of Technology (QUT),Australia
+217,弗吉尼亚大学University of Virginia,United Sta
+220,贝鲁特美国大学American University of Beirut (AUB),Lebanon
+220,亚利桑那州立大学Arizona State University,United Sta
+220,开普敦大学University of Cape Town,South Afri
+223,惠灵顿维多利亚大学Victoria University of Wellington,New Zealan
+223,皇家墨尔本理工大学RMIT University,Australia
+225,圣彼得堡国立大学Saint Petersburg State University,Russia
+226,拉夫堡大学Loughborough University,United Kin
+227,洛斯安第斯大学Universidad de los Andes,Colombia
+228,新西伯利亚国立大学Novosibirsk State University,Russia
+228,汉堡大学Universit?t Hamburg,Germany
+230,科罗拉多大学波德分校University of Colorado Boulder,United Sta
+230,乔治城大学Georgetown University,United Sta
+230,特拉维夫大学Tel Aviv University,Israel
+233,坎皮纳斯大学Universidade Estadual de Campinas (Unicamp),Brazil
+234,马斯特里赫特大学Maastricht University,Netherland
+234,国立成功大学National Cheng Kung University (NCKU),Taiwan
+236,庆熙大学Kyung Hee University,South Kore
+236,阿姆斯特丹自由大学Vrije Universiteit Amsterdam,Netherland
+238,爱尔兰国立大学（高威）National University of Ireland Galway,Ireland
+238,安特卫普大学University of Antwerp,Belgium
+240,国立交通大学National Chiao Tung University,Taiwan
+240,波恩大学Rheinische Friedrich-Wilhelms-Universit?t Bonn,Germany
+242,莱斯特大学University of Leicester,United Kin
+242,巴黎高等路桥学院Ecole des Ponts ParisTech,France
+242,巴黎政治学院Sciences Po,France
+245,卡塔尔大学Qatar University,Qatar
+246,萨塞克斯大学University of Sussex,United Kin
+246,武汉大学Wuhan University,China (Mai
+246,皇后大学Queen's University at Kingston,Canada
+246,卡尔加里大学University of Calgary,Canada
+250,托木斯克国立大学Tomsk State University,Russia
+250,布鲁塞尔自由大学（法语）Universite libre de Bruxelles,Belgium
+252,玛希隆大学Mahidol University,Thailand
+252,纳瓦拉大学University of Navarra,Spain
+254,加札马达大学Gadjah Mada University,Indonesia
+254,文莱达鲁萨兰大学Universiti Brunei Darussalam (UBD),Brunei
+256,同济大学Tongji University,China (Mai
+256,伊利诺伊大学芝加哥分校University of Illinois at Chicago (UIC),United Sta
+258,罗格斯大学utgers University–New Brunswick,United Sta
+259,哥伦比亚国立大学Universidad Nacional de Colombia,Colombia
+260,布拉格查尔斯大学Charles University,Czech Repu
+260,哈尔滨工业大学Harbin Institute of Technology,China (Mai
+260,塔夫斯大学Tufts University,United Sta
+263,中山大学Sun Yat-sen University,China (Mai
+264,香港浸会大学Hong Kong Baptist University,Hong Kong 
+265,因斯布鲁克大学Universit?t Innsbruck,Austria
+265,筑波大学University of Tsukuba,Japan
+267,达姆施塔特工业大学Technical University of Darmstadt,Germany
+267,萨里大学University of Surrey,United Kin
+267,国立台湾科技大学National Taiwan University of Science and Technology (Taiwan Tech),Taiwan
+270,坎特伯雷大学（新西兰）University of Canterbury,New Zealan
+270,麻省大学阿莫赫斯特分校University of Massachusetts Amherst,United Sta
+272,梅西大学Massey University,New Zealan
+273,提契诺大学SI - Università della Svizzera italiana,Switzerlan
+273,亚利桑那大学The University of Arizona,United Sta
+275,印度理工学院马德拉斯分校Indian Institute of Technology Madras (IITM),India
+275,格拉茨工业大学Graz University of Technology,Austria
+275,巴黎大学niversité de Paris,France
+275,迪肯大学Deakin University,Australia
+279,渥太华大学University of Ottawa,Canada
+279,北京师范大学Beijing Normal University,China (Mai
+281,莫斯科物理技术学院Moscow Institute of Physics and Technology (MIPT / Moscow Phystech),Russia
+282,鲍曼大学Bauman Moscow State Technical University,Russia
+282,科隆大学University of Cologne,Germany
+284,阿联酋大学United Arab Emirates University,United Ara
+285,塔尔图大学University of Tartu,Estonia
+286,科克大学学院University College Cork,Ireland
+287,庞培法布拉大学Universitat Pompeu Fabra,Spain
+287,巴黎第一大学iversité Paris 1 Panthéon-Sorbonne,France
+287,图库大学University of Turku,Finland
+287,沙特国王大学King Saud University,Saudi Arab
+291,萨克雷高等师范学院ENS Paris-Saclay,France
+291,以色列理工学院Technion - Israel Institute of Technology,Israel
+291,迈阿密大学University of Miami,United Sta
+291,戴尔豪斯大学Dalhousie University,Canada
+295,北卡罗莱纳州立大学North Carolina State University,United Sta
+295,南澳大学University of South Australia,Australia
+295,光州科技学院Gwangju Institute of Science and Technology (GIST),South Kore
+298,俄罗斯国立高等经济学院HSE University (National Research University Higher School of Economics),Russia
+298,国立阳明大学National Yang Ming University,Taiwan
+300,斯克莱德大学University of Strathclyde,United Kin
+301,赫瑞瓦特大学Heriot Watt University,United Kin
+301,米兰大学University of Milan,Italy
+303,西安交通大学i’an Jiaotong University,China (Mai
+303,格里菲斯大学Griffith University,Australia
+305,奥尔堡大学Aalborg University,Denmark
+305,印度尼西亚大学Universitas Indonesia,Indonesia
+305,巴黎萨克雷大学niversité Paris-Saclay,France
+307,曼海姆大学Universit?t Mannheim,Germany
+308,都灵理工大学Politecnico di Torino,Italy
+308,伦敦大学皇家霍洛威学院Royal Holloway University of London,United Kin
+308,塔斯马尼亚大学University of Tasmania,Australia
+311,马德里卡洛斯三世大学Universidad Carlos III de Madrid (UC3M),Spain
+311,法兰克福大学Goethe-University Frankfurt am Main,Germany
+313,万隆理工学院Bandung Institute of Technology (ITB),Indonesia
+314,莫斯科核子研究大学National Research Nuclear University MEPhI (Moscow Engineering Physics Institute),Russia
+314,加泰罗尼亚理工大学iversitat Politècnica de Catalunya · BarcelonaTech (UPC),Spain
+314,印度理工学院克勒格布尔分校Indian Institute of Technology Kharagpur (IIT-KGP),India
+317,白俄罗斯国立大学Belarusian State University,Belarus
+317,埃尔朗根-纽伦堡大学riedrich-Alexander-Universit?t Erlangen-Nürnberg,Germany
+319,邓迪大学University of Dundee,United Kin
+320,印第安纳大学伯明顿分校Indiana University Bloomington,United Sta
+321,广岛大学Hiroshima University,Japan
+321,华沙大学University of Warsaw,Poland
+323,西门菲莎大学Simon Fraser University,Canada
+323,南方科技大学Southern University of Science and Technology,China (Mai
+323,耶拿大学Universit?t Jena,Germany
+326,阿根廷天主教大学ontificia Universidad Católica Argentina,Argentina
+326,俄罗斯友谊大学RUDN University,Russia
+326,瓦伦西亚理工大学iversitat Politècnica de València,Spain
+326,雅盖隆大学Jagiellonian University,Poland
+326,得恩普萨大学Virginia Polytechnic Institute and State University,United Sta
+327,弗吉尼亚理工大学IE University,Spain
+331,国立台湾师范大学National Taiwan Normal University,Taiwan
+331,乌拉尔联邦大学Ural Federal University - UrFU,Russia
+333,于默奥大学Umea University,Sweden
+333,于韦斯屈莱大学University of Jyv?skyl?,Finland
+333,斯图加特大学Universit?t Stuttgart,Germany
+333,犹他大学University of Utah,United Sta
+333,东安格利亚大学University of East Anglia,United Kin
+333,梨花女子大学Ewha Womans University,South Kore
+333,夏威夷大学马诺阿分校niversity of Hawai?i at Mānoa,United Sta
+341,叶史瓦大学Yeshiva University,United Sta
+342,"布拉格化工大学University of Chemistry and Technology, Prague",Czech Repu
+342,格勒诺布尔大学niversité Grenoble Alpes,France
+344,"伦敦大学伯克贝克学院Birkbeck, University Of London",United Kin
+344,乌尔姆大学University Ulm,Germany
+346,纽约州立大学布法罗分校University at Buffalo SUNY,United Sta
+346,伦敦大学亚非学院SOAS University of London,United Kin
+348,沙迦美国大学American University of Sharjah,United Ara
+348,莫斯科国立国际关系学院Moscow State Institute of International Relations (MGIMO University),Russia
+350,印度理工学院坎普尔分校Indian Institute of Technology Kanpur (IITK),India
+350,文莱工业大学Universiti Teknologi Brunei,Brunei
+350,伦敦城市大学City University London,United Kin
+353,乔治·华盛顿大学George Washington University,United Sta
+353,南丹麦大学University of Southern Denmark (SDU),Denmark
+355,伊斯兰堡国立科技大学National University of Sciences And Technology (NUST) Islamabad,Pakistan
+356,明斯特大学estf?lische Wilhelms-Universit?t Münster,Germany
+357,波尔图大学University of Porto,Portugal
+357,国立欧亚大学L.N. Gumilyov Eurasian National University (ENU),Kazakhstan
+357,里斯本大学University of Lisbon,Portugal
+360,圣彼得堡国立信息技术大学ITMO University,Russia
+360,挪威科技大学Norwegian University of Science And Technology,Norway
+362,林雪平大学Link?ping University,Sweden
+362,东北大学Northeastern University,United Sta
+362,东京医科齿科大学Tokyo Medical and Dental University (TMDU),Japan
+362,林茨大学Johannes Kepler University Linz,Austria
+367,澳门大学University of Macau,Macau SAR
+368,布鲁内尔大学Brunel University,United Kin
+368,蒂尔堡大学Tilburg University,Netherland
+370,喀山联邦大学Kazan (Volga region) Federal University,Russia
+370,维多利亚大学（加拿大）University of Victoria (UVic),Canada
+372,斯威本科技大学Swinburne University of Technology,Australia
+373,巴基斯坦工程与应用科学学院Pakistan Institute of Engineering and Applied Sciences (PIEAS),Pakistan
+373,"纽约州立大学石溪分校Stony Brook University, State University of New York",United Sta
+375,怀卡托大学University of Waikato,New Zealan
+375,苏丹卡布斯大学Sultan Qaboos University,Oman
+377,南开大学Nankai University,China (Mai
+377,巴勒莫大学Universidad de Palermo (UP),Argentina
+379,泰勒大学Taylor's University,Malaysia
+380,里约热内卢联邦大学Universidade Federal do Rio de Janeiro,Brazil
+380,肯特大学University of Kent,United Kin
+380,维克森林大学Wake Forest University,United Sta
+383,牛津布鲁克斯大学Oxford Brookes University,United Kin
+383,比萨大学University of Pisa,Italy
+383,堪萨斯大学University of Kansas,United Sta
+383,印度理工学院鲁尔基分校Indian Institute of Technology Roorkee (IITR),India
+387,上海大学Shanghai University,China (Mai
+387,台北医学大学Taipei Medical University (TMU),Taiwan
+387,天津大学Tianjin University,China (Mai
+387,林肯大学Lincoln University,New Zealan
+391,思特雅大学UCSI University,Malaysia
+392,北京理工大学Beijing Institute of Technology,China (Mai
+392,韩国外国语大学HUFS - Hankuk (Korea) University of Foreign Studies,South Kore
+392,那不勒斯腓特烈二世大学University of Naples - Federico II,Italy
+392,圣拉斐尔大学niversità Vita-Salute San Raffaele,Italy
+396,华中科技大学Huazhong University of Science and Technology,China (Mai
+396,菲律宾大学University of the Philippines,Philippine
+398,"科罗拉多大学丹佛分校University of Colorado, Denver",United Sta
+398,拉筹伯大学La Trobe University,Australia
+398,斯特拉斯堡大学niversité de Strasbourg,France
+401,圣彼得堡理工大学Peter the Great St. Petersburg Polytechnic University,Russia
+401,托木斯克理工大学National Research Tomsk Polytechnic University,Russia
+403,美因茨大学Johannes Gutenberg Universit?t Mainz,Germany
+403,神户大学Kobe University,Japan
+403,特伦托大学University of Trento,Italy
+403,韩国中央大学Chung-Ang University (CAU),South Kore
+403,金山大学University of Witwatersrand,South Afri
+408,奥卢大学University of Oulu,Finland
+409,沙里夫理工大学Sharif University of Technology,"Iran, Isla"
+409,坦佩雷理工大学Tampere University,Finland
+411,埃塞克斯大学University of Essex,United Kin
+411,华盛顿州立大学Washington State University,United Sta
+411,开罗美国大学The American University in Cairo,Egypt
+414,邦德大学Bond University,Australia
+414,杜兰大学Tulane University,United Sta
+416,伦敦大学金史密斯学院Goldsmiths University of London,United Kin
+416,国立中山大学National Sun Yat-sen University,Taiwan
+416,"加州大学圣克鲁兹分校University of California, Santa Cruz",United Sta
+416,特罗姆瑟大学University of Troms? The Arctic University of Norway,Norway
+420,拉瓦尔大学niversité Laval,Canada
+420,圣保罗联邦大学Universidade Federal de S?o Paulo,Brazil
+420,爱荷华大学University of Iowa,United Sta
+423,维尔纽斯大学Vilnius University,Lithuania
+423,佛林德斯大学Flinders University,Australia
+425,波尔多大学University of Bordeaux,France
+426,伊利诺伊斯理工大学Illinois Institute of Technology,United Sta
+426,哈韦里安纳主教大学Pontificia Universidad Javeriana,Colombia
+428,俄罗斯国立科技大学The National University of Science and Technology MISIS,Russia
+428,新葡京大学Universidade Nova de Lisboa,Portugal
+428,圣加仑大学University of St.Gallen (HSG),Switzerlan
+431,科英布拉大学University of Coimbra,Portugal
+432,布拉格工业大学Czech Technical University in Prague,Czech Repu
+432,厦门大学Xiamen University,China (Mai
+432,秘鲁天主大学ntificia Universidad Católica del Perú,Peru
+432,佛罗伦萨大学University of Florence,Italy
+432,"田纳西大学The University of Tennessee, Knoxville",United Sta
+437,奥克兰理工大学Auckland University of Technology (AUT),New Zealan
+437,维尔茨堡大学ulius-Maximilians-Universit?t Würzburg,Germany
+439,波鸿大学Ruhr-Universit?t Bochum,Germany
+439,马来西亚石油大学Universiti Teknologi PETRONAS (UTP),Malaysia
+439,约翰内斯堡大学University of Johannesburg,South Afri
+439,都柏林城市大学Dublin City University,Ireland
+443,阿根廷奥斯特拉尔大学Universidad Austral,Argentina
+443,康斯坦茨大学Universit?t Konstanz,Germany
+443,科罗拉多州立大学Colorado State University,United Sta
+446,北京科技大学University of Science and Technology Beijing,China (Mai
+446,本古里安大学Ben-Gurion University of The Negev,Israel
+446,布兰迪斯大学Brandeis University,United Sta
+449,北京航空航天大学Beihang University (former BUAA),China (Mai
+449,"加州大学河滨分校University of California, Riverside",United Sta
+451,萨尔大学Universit?t des Saarlandes,Germany
+451,列日大学iversité de Liège,Belgium
+451,马德里理工大学?niversidad Politécnica de Madrid,Spain
+454,波士顿学院Boston College,United Sta
+454,奎德阿萨姆大学Quaid-i-Azam University,Pakistan
+456,东国大学Dongguk University,South Kore
+456,韩国天主大学The Catholic University of Korea,South Kore
+456,佛罗里达州立大学Florida State University,United Sta
+456,堪培拉大学University of Canberra,Australia
+456,哈瑟尔特大学Hasselt University,Belgium
+456,斯泰伦博斯大学Stellenbosch University,South Afri
+462,乌拉圭奥特大学Universidad ORT Uruguay,Uruguay
+462,詹姆斯库克大学James Cook University,Australia
+462,华南理工大学South China University of Technology,China (Mai
+465,萨斯喀彻温大学University of Saskatchewan,Canada
+465,科奇大学Ko? University,Turkey
+465,横滨市立大学Yokohama City University,Japan
+465,国立中央大学National Central University,Taiwan
+465,贝尔格拉诺大学Universidad de Belgrano,Argentina
+470,哈勒-维滕贝格大学Martin-Luther-Universit?t Halle-Wittenberg,Germany
+470,伦斯勒理工学院Rensselaer Polytechnic Institute,United Sta
+470,印度理工学院古瓦哈提分校Indian Institute of Technology Guwahati (IITG),India
+470,拉彭兰塔理工大学Lappeenranta-Lahti University of Technology LUT,Finland
+474,西悉尼大学Western Sydney University,Australia
+474,斯旺西大学Swansea University,United Kin
+474,麦加大学Umm Al-Qura University,Saudi Arab
+477,塞浦路斯大学University of Cyprus (UCY),Cyprus
+477,阿米喀布尔理工大学Amirkabir University of Technology,"Iran, Isla"
+477,哈尔科夫国立大学V. N. Karazin Kharkiv National University,Ukraine
+477,康考迪亚大学Concordia University,Canada
+477,韦恩州立大学Wayne State University,United Sta
+477,雅典国立科技大学National Technical University of Athens,Greece
+483,"密苏里大学University of Missouri, Columbia",United Sta
+483,莱比锡大学Universit?t Leipzig,Germany
+485,阿伯斯威大学Aberystwyth University,United Kin
+485,山东大学Shandong University,China (Mai
+485,斯特林大学University of Stirling,United Kin
+488,千叶大学Chiba University,Japan
+488,国立台北科技大学National Taipei University of Technology,Taiwan
+490,南哈萨克斯坦州立大学Auezov South Kazakhstan State University (SKSU),Kazakhstan
+490,西江大学Sogang University,South Kore
+492,蒙得维的亚大学Universidad de Montevideo (UM),Uruguay
+493,东南大学Southeast University,China (Mai
+493,长庚大学Chang Gung University,Taiwan
+493,圣保罗州立大学UNESP,Brazil
+493,远东联邦大学Far Eastern Federal University,Russia
+493,吉林大学Jilin University,China (Mai
+498,哈瓦那大学Universidad de La Habana,Cuba
+499,阿尔卡拉大学niversidad de Alcalá,Spain
+499,东芬兰大学University of Eastern Finland,Finland
+499,俄勒冈州立大学Oregon State University,United Sta
